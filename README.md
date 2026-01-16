@@ -1,4 +1,4 @@
-# IoT Fire & Gas Safety System with Two-Way GSM (ESP32 + SIM800L)
+# How to Build a GSM Fire & Gas Alarm with ESP32 & SIM800L (SMS Alerts + Status Check)
 
 An autonomous environmental safety system using the **ESP32** and **SIM800L GSM Module**. This project monitors Smoke/Gas levels (MQ-2) and Fire detection (Flame Sensor) in real-time. It sends urgent **SMS alerts** to an admin number upon detection and supports **two-way communication** to query system status remotely.
 
